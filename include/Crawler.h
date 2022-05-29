@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Panasyukmaria
 
 #ifndef INCLUDE_CRAWLER_HPP_
 #define INCLUDE_CRAWLER_HPP_

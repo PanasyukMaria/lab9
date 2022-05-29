@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Panasyukmaria
 #include <Crawler.h>
 #include <Downloader.h>
 #include <Parser.hpp>

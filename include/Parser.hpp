@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Panasyukmaria
 
 #ifndef INCLUDE_PARSER_HPP_
 #define INCLUDE_PARSER_HPP_
